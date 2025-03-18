@@ -23,3 +23,19 @@ MEF.SqlServer(7.0.20)
 MEF.Tools(7.0.20)
 
 
+
+///////////////////////////////////////////////////////
+
+INSTALL 
+
+For Database Management SQL
+
+https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms#download-ssms
+
+For SQL Server 2022
+
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+Select Developer for full featured
+
+
